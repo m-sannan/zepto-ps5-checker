@@ -168,3 +168,12 @@ zepto_ps5_checker.py   ← the script
 cookie.txt             ← your personal cookie (create this yourself, never share it)
 README.md              ← this file
 ```
+
+Proof 
+
+<img width="451" height="193" alt="Screenshot 2026-07-01 at 10 50 19 PM" src="https://github.com/user-attachments/assets/8e048f40-b20c-4f90-9b6f-6e4f4b9de84b" />
+
+---
+
+<img width="357" height="73" alt="Screenshot 2026-07-01 at 10 51 21 PM" src="https://github.com/user-attachments/assets/ea5061d1-8b41-413c-8a07-92ba7075b266" />
+
