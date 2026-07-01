@@ -2,7 +2,7 @@
 
 Scans 66 Bangalore locations on Zepto and alerts you the moment a PS5 is in stock.
 
-Built and shared by u/[your_username] on r/bangalore.
+Built by u/msannan121
 
 ---
 
